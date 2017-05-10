@@ -1,0 +1,28 @@
+{
+  "name": "markdown_previewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqdai1992/Build_a_Markdown_Previewer.git"
+  },
+  "author": "dainguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqdai1992/Build_a_Markdown_Previewer/issues"
+  },
+  "homepage": "https://github.com/nqdai1992/Build_a_Markdown_Previewer#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.5.1"
+  }
+}
